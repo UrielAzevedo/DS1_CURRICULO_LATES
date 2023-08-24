@@ -1,0 +1,37 @@
+.sb{
+
+    color: brown;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 5%;
+    /* border: 1px solid black; */
+}
+
+.field_title{
+    margin: 10px;
+}
+
+.input{
+    border: 5px;
+}
+
+.button{
+    margin: 5px;
+}
+
+.type_field{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    margin: 10px;
+    font-size: 15px;
+    /* padding: 5px; */
+    width: 80px;
+    align-items: center;
+}
